@@ -1,0 +1,2 @@
+Cell,Test_AUC,Validation_AUC,n_estimators,eta,gamma,max_depth,lambda,alpha,min_child_weight,subsample
+E071,0.80135,0.7857,444.09269,0.16373,4.87799,3.32079,3.7318,4.81403,5.5245,0.28291
